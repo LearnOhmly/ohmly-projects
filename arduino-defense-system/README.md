@@ -16,4 +16,4 @@ For full schematic, parts list, and instructions for this project, visit:
 This project is open source under the MIT License — see the LICENSE file for details.
 
 ## ohmly-projects
-Source code for electronics projects and tutorials from Ohmly. Visit https://learnohmly.com for full guides and schematics.
+Source code for electronics projects and tutorials from Ohmly. Visit [Ohmly](https://learnohmly.com) for full guides and schematics.
