@@ -10,7 +10,7 @@ This project uses an Arduino, ultrasonic sensor, and other electrical components
 - (Add other files here if needed)
 
 ## Schematic + Guide
-For full schematic, parts list, and instructions, visit:
+For full schematic, parts list, and instructions for this project, visit:
 👉 [https://learnohmly.com/project-arduino-defense-system](https://learnohmly.com/project-arduino-defense-system)
 
 ## License
