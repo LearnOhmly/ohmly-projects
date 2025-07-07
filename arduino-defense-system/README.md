@@ -1,6 +1,6 @@
 # Arduino Defense System
 
-Source code for the Arduino Defense System tutorial on [Ohmly](https://learnohmly.com/project-arduino-defense-system).
+Source code for the Arduino Defense System tutorial on [Ohmly](https://learnohmly.com).
 
 ## Overview
 This project uses an Arduino, ultrasonic sensor, and other electrical components to create a defense-style turret that detects and reacts to objects within range.
