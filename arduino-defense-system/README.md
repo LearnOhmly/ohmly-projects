@@ -7,7 +7,6 @@ This project uses an Arduino, ultrasonic sensor, and other electrical components
 
 ## Files
 - `defense_system.ino` — Main Arduino sketch for controlling sensors, servos, etc.
-- (Add other files here if needed)
 
 ## Schematic + Guide
 For full schematic, parts list, and instructions for this project, visit:
