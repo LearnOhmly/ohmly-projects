@@ -9,7 +9,7 @@ This project uses OpenCV (Python), an Arduino, and servo motors to create a turr
 
 ## Schematic + Guide
 For full schematic, parts list, and instructions for this project, visit:  
-👉 [https://learnohmly.com/project-arduino-object-tracking-turret](https://learnohmly.com/project-arduino-object-tracking-turret)
+👉 [https://learnohmly.com/project-object-tracking-turret](https://learnohmly.com/project-object-tracking-turret)
 
 ## License
 This project is open source under the MIT License — see the LICENSE file for details.
